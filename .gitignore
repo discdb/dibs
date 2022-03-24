@@ -1,0 +1,19 @@
+#OS junk
+.DS_Store
+thumbs.db
+.Trashes
+.Trash
+.Cloud
+.localized
+
+#dev stuff
+.venv/
+.vscode/
+dibs/__pycache__/
+dvdb_dibs/__pycache__/
+dibs/migrations/
+
+#for security
+db.sqlite3
+media/
+dvdb_dibs/.env
